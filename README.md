@@ -1,6 +1,6 @@
 # 📰 News Project
 
-## 📌 Overview
+## 📌 Overviewhttps://github.com/ShehbaazAalam/News-Project/blob/main/README.md
 This is a **simple news website** that provides users with the latest news updates. The project is built using **HTML, CSS, and JavaScript**, offering a clean and responsive design for a seamless user experience.
 
 ## 🎯 Features
